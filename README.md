@@ -21,14 +21,11 @@
  
  ## Package to executable 
  
- Only tested on Windows x64 currently. //Todo OSX
- 
- ```
- // Windows
- npx electron-packager . Screensaver-demo --platform=win32 --arch=x64   // Will create a folder inside current directory, navigate to this directory to open the .exe
- 
- //OSX
- TODO
- 
- ```
+Packagers are included in the script file, just run:
+
+```
+yarn package-win //Windows exe
+yarn package-mac //OSX exe
+```
+
  
