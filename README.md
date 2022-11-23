@@ -24,8 +24,8 @@
 Packagers are included in the script file, just run:
 
 ```
-yarn package-win //Windows exe
-yarn package-mac //OSX exe
+yarn package-win //Windows exe - Will create a release-build folder, navigate through this to find the executable
+yarn package-mac //OSX exe - Will create a release-build folder, navigate through this to find the executable
 ```
 
  
