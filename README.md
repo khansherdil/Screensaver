@@ -14,7 +14,7 @@
  ### Run locally
  
  ```
- 1. Run yarn start
+ 1. yarn start
  2. Move your mouse (1s delay), press any key, click your mouse to exit the screensaver
  ```
  
