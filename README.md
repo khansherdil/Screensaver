@@ -4,7 +4,7 @@
 
 ```
 1. Clone project
-2. Run yarn / yarn install
+2. Run yarn / yarn install (Node > v14.16). --- can also asdf local nodejs latest to test it out
 3. For demo purposes, download a stock video to be shown on the screensaver. Link to Pixabay provided below.
 4. Provide the path to video inside index.html file
 ```
