@@ -29,3 +29,14 @@ yarn package-mac //OSX exe - Will create a release-build folder, navigate throug
 ```
 
  
+### `Installing the screensaver to use on Windows 10/11`
+
+1. Open `release-builds` folder and look for the .exe file
+2. Change the executable filename extension from .exe to .scr 
+3. Right click on the newly renamed .scr file and click on `Install`
+4. The native Windows screensaver GUI will pop up and allow you to save the new screensaver
+
+```
+### `Installing the screensaver to use on Mac OSX`
+
+//TODO
