@@ -39,4 +39,4 @@ yarn package-mac //OSX exe - Will create a release-build folder, navigate throug
 ```
 ### `Installing the screensaver to use on Mac OSX`
 
-//TODO
+1. //TODO
